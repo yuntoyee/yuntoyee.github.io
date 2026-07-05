@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>yun&#39;s photos</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on yun&#39;s photos</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+			<managingEditor>your@family.name (yun)</managingEditor>
+		
+		
+			<webMaster>your@family.name (yun)</webMaster>
+		
+		
+		
+			<lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>我的第一个相册</title>
+				<link>http://localhost:1313/my-first-album/</link>
+				<pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate><author>your@family.name (yun)</author>
+				<guid>http://localhost:1313/my-first-album/</guid>
+				<description>&lt;p&gt;某天傍晚&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

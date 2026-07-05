@@ -1,0 +1,13 @@
+baseURL = 'https://yunxiaowo.cn'
+locale = 'zh-cn'
+title = "yun's photos"
+theme = 'Berenice'
+
+timeout = "120s"
+
+[params]
+    HugoFooter = true
+    
+    [params.author]
+    name = "yun"
+    email = "your@family.name"
